@@ -5,10 +5,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using jalgpall;
-using Point = jagpall.Point;
+using Point = jalgpall.Point;
 
 
-namespace jagpall
+namespace jalgpall
 {
     class Point
     {
